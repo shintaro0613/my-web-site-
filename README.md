@@ -1,4 +1,4 @@
-# 💙 プロジェクト名
+#  勉強用サイト📚
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" />
