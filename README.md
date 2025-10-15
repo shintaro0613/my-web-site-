@@ -3,10 +3,10 @@
     <img src="https://img.shields.io/badge/項目Aへ-blue?style=for-the-badge&logo=github" alt="項目Aボタン">
   </a>
   <a href="#section-b">
-    <img src="https://img.shields.io/badge/外部リンク-fe7d37?style=for-the-badge&logo=linkin" alt="外部リンクボタン">
+    <img src="https://img.shields.io/badge/心電図-fe7d37?style=for-the-badge&logo=linkin" alt="心電図">
   </a>
-  <a href="#section-c">
-    <img src="https://img.shields.io/badge/お問い合わせ-success?style=for-the-badge&logo=mail.ru" alt="お問い合わせボタン">
+  <a href="https://shintaro0613.github.io/my-web-site-/">
+    <img src="https://img.shields.io/badge火災性状-success?style=for-the-badge&logo=mail.ru" alt="火災性状">
   </a>
 </p>
 
