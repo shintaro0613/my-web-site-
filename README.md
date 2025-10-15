@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#section-a">
+  <a href="#https://shintaro0613.github.io/my-web-site-/">
     <img src="https://img.shields.io/badge/項目Aへ-blue?style=for-the-badge&logo=github" alt="項目Aボタン">
   </a>
   <a href="#section-b">
