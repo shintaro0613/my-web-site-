@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://shintaro0613.github.io/my-web-site-/">
-    <img src="https://img.shields.io/badge/項目Aへ-blue?style=for-the-badge&logo=github" alt="項目Aボタン">
+    <img src="https://img.shields.io/badge/放射線事故-blue?style=for-the-badge&logo=github" alt="放射線事故">
   </a>
   <a href="#section-b">
     <img src="https://img.shields.io/badge/心電図-fe7d37?style=for-the-badge&logo=linkin" alt="心電図">
   </a>
   <a href="https://shintaro0613.github.io/my-web-site-/">
-    <img src="https://img.shields.io/badge火災性状-success?style=for-the-badge&logo=mail.ru" alt="火災性状">
+    <img src="https://img.shields.io/badge/火災性状-success?style=for-the-badge&logo=mail.ru" alt="火災性状">
   </a>
 </p>
 
